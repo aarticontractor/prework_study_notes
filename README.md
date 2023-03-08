@@ -1,2 +1,2 @@
 # prework_study_notes
-Study notes gained from prework activities
+Study notes gained from prework activities.
